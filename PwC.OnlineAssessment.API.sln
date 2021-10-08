@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PwC.OnlineAssessment.API", "PwC.OnlineAssessment.API.csproj", "{C2319CBA-3364-4D0A-90F7-440594D7643A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PwC.OnlineAssessment.Tests", "..\PwC.OnlineAssessment.Tests\PwC.OnlineAssessment.Tests.csproj", "{8E671373-56C5-4485-8BF4-E422360C63E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2319CBA-3364-4D0A-90F7-440594D7643A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2319CBA-3364-4D0A-90F7-440594D7643A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2319CBA-3364-4D0A-90F7-440594D7643A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2319CBA-3364-4D0A-90F7-440594D7643A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E671373-56C5-4485-8BF4-E422360C63E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E671373-56C5-4485-8BF4-E422360C63E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E671373-56C5-4485-8BF4-E422360C63E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E671373-56C5-4485-8BF4-E422360C63E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {982F864A-7BED-4B56-8E09-DA2D7B96218D}
+	EndGlobalSection
+EndGlobal
